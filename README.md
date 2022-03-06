@@ -1,2 +1,2 @@
-# mediAlunoMelhorada
+# MediaEscolar
 Created with CodeSandbox
